@@ -1,2 +1,6 @@
-kojtan_env
-__pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+kojtan_env/
+.ipynb_checkpoints/
+.DS_Store

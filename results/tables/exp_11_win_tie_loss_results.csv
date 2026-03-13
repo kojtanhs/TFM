@@ -1,0 +1,5 @@
+,Win,Tie,Loss
+ROS,0,2,3
+SMOTE,1,2,2
+ADASYN,1,2,2
+SMOTE+Tomek,2,2,1
